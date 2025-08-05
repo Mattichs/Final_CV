@@ -17,8 +17,8 @@ using json = nlohmann::json;
 
 int main() {
     // Example input paths
-    std::string imageFilePath = "train/apple/img";
-    std::string jsonFilePath = "train/apple/label";
+    std::string imageFilePath = "../train/apple/img";
+    std::string jsonFilePath = "../train/apple/label";
 
     try {
         for(const auto& entry : std::filesystem::directory_iterator(imageFilePath)) {
