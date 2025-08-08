@@ -1,3 +1,9 @@
+"""  
+Questo file serve a creare un file di testo che contiene le informazioni sulle immagini e le loro etichette.
+Il file di output sarà utilizzato per l'addestramento di un modello di rilevamento degli oggetti.
+"""
+
+
 import json
 import os
 
