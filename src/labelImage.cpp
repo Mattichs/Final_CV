@@ -114,8 +114,8 @@ using json = nlohmann::json;
 int main() {
     std::string trainPath = "train";
     std::string excludeFolder = "apple"; // frutto da escludere
-    int maxROIs = 50;
-    std::string outDir = "negative";
+    int maxROIs = 150;
+    std::string outDir = "temp";
 
     for (const auto &fruitDir : fs::directory_iterator(trainPath)) {
         
