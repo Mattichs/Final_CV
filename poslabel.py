@@ -8,8 +8,8 @@ import json
 import os
 
 # Percorsi delle cartelle
-image_dir = "train/strawberry/img"
-label_dir = "train/strawberry/label"
+image_dir = "train/apple/img"
+label_dir = "train/apple/label"
 output_txt_path = "positives.txt"
 
 lines = []

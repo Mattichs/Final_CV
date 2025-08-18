@@ -113,7 +113,7 @@ using json = nlohmann::json;
 
 int main() {
     std::string trainPath = "train";
-    std::string excludeFolder = "strawberry"; // frutto da escludere
+    std::string excludeFolder = "apple"; // frutto da escludere
     int maxROIs = 150;
     std::string outDir = "temp";
 
