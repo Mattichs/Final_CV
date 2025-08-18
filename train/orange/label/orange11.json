@@ -2,77 +2,173 @@
     "description": "",
     "tags": [],
     "size": {
-        "height": 354,
-        "width": 500
+        "height": 428,
+        "width": 640
     },
     "objects": [
         {
-            "id": 6275819,
+            "id": 6275963,
             "classId": 8681,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:16.955Z",
-            "updatedAt": "2023-06-13T15:45:16.955Z",
+            "createdAt": "2023-06-13T15:45:18.457Z",
+            "updatedAt": "2023-06-13T15:45:18.457Z",
             "tags": [],
             "classTitle": "orange",
             "points": {
                 "exterior": [
                     [
-                        7,
-                        25
+                        282,
+                        124
                     ],
                     [
-                        192,
-                        236
+                        354,
+                        194
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6275818,
+            "id": 6275962,
             "classId": 8681,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:16.954Z",
-            "updatedAt": "2023-06-13T15:45:16.954Z",
+            "createdAt": "2023-06-13T15:45:18.456Z",
+            "updatedAt": "2023-06-13T15:45:18.456Z",
             "tags": [],
             "classTitle": "orange",
             "points": {
                 "exterior": [
                     [
-                        154,
-                        133
+                        262,
+                        178
                     ],
                     [
-                        333,
-                        326
+                        338,
+                        253
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6275817,
+            "id": 6275961,
             "classId": 8681,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:16.954Z",
-            "updatedAt": "2023-06-13T15:45:16.954Z",
+            "createdAt": "2023-06-13T15:45:18.456Z",
+            "updatedAt": "2023-06-13T15:45:18.456Z",
             "tags": [],
             "classTitle": "orange",
             "points": {
                 "exterior": [
                     [
-                        316,
-                        157
+                        324,
+                        317
                     ],
                     [
-                        493,
-                        344
+                        396,
+                        389
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275960,
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.456Z",
+            "updatedAt": "2023-06-13T15:45:18.456Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        48,
+                        367
+                    ],
+                    [
+                        108,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275959,
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.456Z",
+            "updatedAt": "2023-06-13T15:45:18.456Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        344,
+                        265
+                    ],
+                    [
+                        411,
+                        315
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275958,
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.455Z",
+            "updatedAt": "2023-06-13T15:45:18.455Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        363,
+                        111
+                    ],
+                    [
+                        435,
+                        167
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275957,
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.455Z",
+            "updatedAt": "2023-06-13T15:45:18.455Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        285,
+                        267
+                    ],
+                    [
+                        339,
+                        311
                     ]
                 ],
                 "interior": []

@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 470,
+        "width": 470
+    },
+    "objects": [
+        {
+            "id": 6278433,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.071Z",
+            "updatedAt": "2023-06-13T15:45:25.071Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        302,
+                        184
+                    ],
+                    [
+                        389,
+                        258
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278432,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        145,
+                        235
+                    ],
+                    [
+                        233,
+                        319
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278431,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        330,
+                        248
+                    ],
+                    [
+                        407,
+                        330
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278430,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        301,
+                        255
+                    ],
+                    [
+                        349,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278429,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        259
+                    ],
+                    [
+                        268,
+                        334
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278428,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        249,
+                        261
+                    ],
+                    [
+                        329,
+                        347
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278427,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.070Z",
+            "updatedAt": "2023-06-13T15:45:25.070Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        129,
+                        293
+                    ],
+                    [
+                        218,
+                        355
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6278426,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:25.069Z",
+            "updatedAt": "2023-06-13T15:45:25.069Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        183,
+                        331
+                    ],
+                    [
+                        285,
+                        416
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

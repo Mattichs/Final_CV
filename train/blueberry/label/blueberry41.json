@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 650,
+        "width": 650
+    },
+    "objects": [
+        {
+            "id": 6154144,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.292Z",
+            "updatedAt": "2023-06-13T15:41:37.292Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        279,
+                        89
+                    ],
+                    [
+                        460,
+                        228
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154143,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.292Z",
+            "updatedAt": "2023-06-13T15:41:37.292Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        339,
+                        157
+                    ],
+                    [
+                        513,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154142,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.291Z",
+            "updatedAt": "2023-06-13T15:41:37.291Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        199,
+                        172
+                    ],
+                    [
+                        364,
+                        333
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154141,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.291Z",
+            "updatedAt": "2023-06-13T15:41:37.291Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        238
+                    ],
+                    [
+                        567,
+                        434
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154140,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.290Z",
+            "updatedAt": "2023-06-13T15:41:37.290Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        264,
+                        283
+                    ],
+                    [
+                        436,
+                        439
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154139,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.289Z",
+            "updatedAt": "2023-06-13T15:41:37.289Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        122,
+                        320
+                    ],
+                    [
+                        245,
+                        444
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6154138,
+            "classId": 8677,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:41:37.289Z",
+            "updatedAt": "2023-06-13T15:41:37.289Z",
+            "tags": [],
+            "classTitle": "blueberry",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        389
+                    ],
+                    [
+                        373,
+                        549
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

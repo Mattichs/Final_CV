@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 600,
+        "width": 600
+    },
+    "objects": [
+        {
+            "id": 6281318,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.225Z",
+            "updatedAt": "2023-06-13T15:45:34.225Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        140
+                    ],
+                    [
+                        239,
+                        296
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281317,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        159,
+                        159
+                    ],
+                    [
+                        299,
+                        320
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281316,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        218,
+                        219
+                    ],
+                    [
+                        367,
+                        404
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281315,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        353,
+                        323
+                    ],
+                    [
+                        469,
+                        423
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281314,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        485,
+                        381
+                    ],
+                    [
+                        554,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281313,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        191,
+                        369
+                    ],
+                    [
+                        274,
+                        495
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281312,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        223,
+                        381
+                    ],
+                    [
+                        396,
+                        561
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281311,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        368,
+                        387
+                    ],
+                    [
+                        531,
+                        573
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281310,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.224Z",
+            "updatedAt": "2023-06-13T15:45:34.224Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        2,
+                        482
+                    ],
+                    [
+                        84,
+                        599
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

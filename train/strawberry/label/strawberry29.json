@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 670,
+        "width": 1000
+    },
+    "objects": [
+        {
+            "id": 6276018,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.464Z",
+            "updatedAt": "2023-06-13T15:45:18.464Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        60,
+                        276
+                    ],
+                    [
+                        320,
+                        461
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6276017,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.464Z",
+            "updatedAt": "2023-06-13T15:45:18.464Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        294,
+                        286
+                    ],
+                    [
+                        507,
+                        548
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6276016,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.464Z",
+            "updatedAt": "2023-06-13T15:45:18.464Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        391,
+                        368
+                    ],
+                    [
+                        705,
+                        630
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

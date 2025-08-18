@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 682,
+        "width": 1024
+    },
+    "objects": [
+        {
+            "id": 6297963,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:05.338Z",
+            "updatedAt": "2023-06-13T15:46:05.338Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        54,
+                        261
+                    ],
+                    [
+                        262,
+                        524
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6297962,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:05.338Z",
+            "updatedAt": "2023-06-13T15:46:05.338Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        541,
+                        184
+                    ],
+                    [
+                        829,
+                        377
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6297961,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:05.338Z",
+            "updatedAt": "2023-06-13T15:46:05.338Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        795,
+                        219
+                    ],
+                    [
+                        1012,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6297960,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:05.338Z",
+            "updatedAt": "2023-06-13T15:46:05.338Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        641,
+                        370
+                    ],
+                    [
+                        858,
+                        581
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6297959,
+            "classId": 8683,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:05.337Z",
+            "updatedAt": "2023-06-13T15:46:05.337Z",
+            "tags": [],
+            "classTitle": "strawberry",
+            "points": {
+                "exterior": [
+                    [
+                        638,
+                        65
+                    ],
+                    [
+                        898,
+                        189
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
