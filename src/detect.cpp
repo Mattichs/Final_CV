@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 
         // Rilevamento
         vector<Rect> objects;
-        cascade.detectMultiScale(gray, objects, 1.1, 5, 0, Size(24, 24));
+        cascade.detectMultiScale(gray, objects, 1.1, 8, 0, Size(100, 100));
 
         // Disegna rettangoli
         for (size_t i = 0; i < objects.size(); i++) {
