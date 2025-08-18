@@ -2,23 +2,38 @@
     "description": "",
     "tags": [],
     "size": {
+<<<<<<< HEAD
         "height": 375,
         "width": 500
     },
     "objects": [
         {
             "id": 6275885,
+=======
+        "height": 500,
+        "width": 378
+    },
+    "objects": [
+        {
+            "id": 6275913,
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
             "classId": 8681,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "iw@datasetninja.com",
+<<<<<<< HEAD
             "createdAt": "2023-06-13T15:45:16.961Z",
             "updatedAt": "2023-06-13T15:45:16.961Z",
+=======
+            "createdAt": "2023-06-13T15:45:16.962Z",
+            "updatedAt": "2023-06-13T15:45:16.962Z",
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
             "tags": [],
             "classTitle": "orange",
             "points": {
                 "exterior": [
                     [
+<<<<<<< HEAD
                         46,
                         203
                     ],
@@ -241,6 +256,14 @@
                     [
                         497,
                         102
+=======
+                        129,
+                        149
+                    ],
+                    [
+                        303,
+                        306
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
                     ]
                 ],
                 "interior": []
