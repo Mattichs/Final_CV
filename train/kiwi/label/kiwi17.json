@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1300,
+        "width": 1300
+    },
+    "objects": [
+        {
+            "id": 6279849,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:30.844Z",
+            "updatedAt": "2023-06-13T15:45:30.844Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        531,
+                        880
+                    ],
+                    [
+                        927,
+                        1174
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6279848,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:30.843Z",
+            "updatedAt": "2023-06-13T15:45:30.843Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        94,
+                        391
+                    ],
+                    [
+                        544,
+                        904
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6279847,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:30.843Z",
+            "updatedAt": "2023-06-13T15:45:30.843Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        527,
+                        538
+                    ],
+                    [
+                        957,
+                        999
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

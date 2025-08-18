@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 800,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 6275488,
+            "classId": 8675,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:14.379Z",
+            "updatedAt": "2023-06-13T15:45:14.379Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        104,
+                        286
+                    ],
+                    [
+                        455,
+                        611
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275487,
+            "classId": 8675,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:14.379Z",
+            "updatedAt": "2023-06-13T15:45:14.379Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        406,
+                        357
+                    ],
+                    [
+                        659,
+                        627
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6275486,
+            "classId": 8675,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:14.379Z",
+            "updatedAt": "2023-06-13T15:45:14.379Z",
+            "tags": [],
+            "classTitle": "apple",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        219
+                    ],
+                    [
+                        552,
+                        375
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
