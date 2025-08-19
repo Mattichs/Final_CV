@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+<<<<<<< HEAD
+        "height": 500,
+        "width": 378
+    },
+    "objects": [
+        {
+            "id": 6275913,
+=======
+        "height": 533,
+        "width": 800
+    },
+    "objects": [
+        {
+            "id": 6276121,
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+<<<<<<< HEAD
+            "createdAt": "2023-06-13T15:45:16.962Z",
+            "updatedAt": "2023-06-13T15:45:16.962Z",
+=======
+            "createdAt": "2023-06-13T15:45:18.475Z",
+            "updatedAt": "2023-06-13T15:45:18.475Z",
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+<<<<<<< HEAD
+                        129,
+                        149
+                    ],
+                    [
+                        303,
+                        306
+=======
+                        193,
+                        340
+                    ],
+                    [
+                        322,
+                        484
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6276120,
+            "classId": 8681,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:18.475Z",
+            "updatedAt": "2023-06-13T15:45:18.475Z",
+            "tags": [],
+            "classTitle": "orange",
+            "points": {
+                "exterior": [
+                    [
+                        52,
+                        330
+                    ],
+                    [
+                        156,
+                        465
+>>>>>>> 12247003fff8208b5c6772fc77136ec5c5515b52
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

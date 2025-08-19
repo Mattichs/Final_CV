@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2992,
+        "width": 3740
+    },
+    "objects": [
+        {
+            "id": 6277286,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:23.353Z",
+            "updatedAt": "2023-06-13T15:45:23.353Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        1817,
+                        860
+                    ],
+                    [
+                        2585,
+                        1669
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6277285,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:23.352Z",
+            "updatedAt": "2023-06-13T15:45:23.352Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        1162,
+                        1195
+                    ],
+                    [
+                        1999,
+                        2079
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6277284,
+            "classId": 8679,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:23.352Z",
+            "updatedAt": "2023-06-13T15:45:23.352Z",
+            "tags": [],
+            "classTitle": "cherry",
+            "points": {
+                "exterior": [
+                    [
+                        881,
+                        79
+                    ],
+                    [
+                        1671,
+                        920
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

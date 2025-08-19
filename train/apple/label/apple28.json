@@ -7,103 +7,7 @@
     },
     "objects": [
         {
-            "id": 6275496,
-            "classId": 8675,
-            "description": "",
-            "geometryType": "rectangle",
-            "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.380Z",
-            "updatedAt": "2023-06-13T15:45:14.380Z",
-            "tags": [],
-            "classTitle": "apple",
-            "points": {
-                "exterior": [
-                    [
-                        89,
-                        360
-                    ],
-                    [
-                        302,
-                        587
-                    ]
-                ],
-                "interior": []
-            }
-        },
-        {
-            "id": 6275495,
-            "classId": 8675,
-            "description": "",
-            "geometryType": "rectangle",
-            "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.380Z",
-            "updatedAt": "2023-06-13T15:45:14.380Z",
-            "tags": [],
-            "classTitle": "apple",
-            "points": {
-                "exterior": [
-                    [
-                        299,
-                        367
-                    ],
-                    [
-                        485,
-                        588
-                    ]
-                ],
-                "interior": []
-            }
-        },
-        {
-            "id": 6275494,
-            "classId": 8675,
-            "description": "",
-            "geometryType": "rectangle",
-            "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.380Z",
-            "updatedAt": "2023-06-13T15:45:14.380Z",
-            "tags": [],
-            "classTitle": "apple",
-            "points": {
-                "exterior": [
-                    [
-                        419,
-                        160
-                    ],
-                    [
-                        738,
-                        505
-                    ]
-                ],
-                "interior": []
-            }
-        },
-        {
-            "id": 6275493,
-            "classId": 8675,
-            "description": "",
-            "geometryType": "rectangle",
-            "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.380Z",
-            "updatedAt": "2023-06-13T15:45:14.380Z",
-            "tags": [],
-            "classTitle": "apple",
-            "points": {
-                "exterior": [
-                    [
-                        633,
-                        378
-                    ],
-                    [
-                        865,
-                        630
-                    ]
-                ],
-                "interior": []
-            }
-        },
-        {
-            "id": 6275492,
+            "id": 6275485,
             "classId": 8675,
             "description": "",
             "geometryType": "rectangle",
@@ -115,19 +19,19 @@
             "points": {
                 "exterior": [
                     [
-                        874,
-                        636
+                        126,
+                        254
                     ],
                     [
-                        989,
-                        717
+                        534,
+                        670
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6275491,
+            "id": 6275484,
             "classId": 8675,
             "description": "",
             "geometryType": "rectangle",
@@ -139,60 +43,36 @@
             "points": {
                 "exterior": [
                     [
-                        8,
-                        258
+                        575,
+                        301
                     ],
                     [
-                        96,
-                        360
+                        884,
+                        602
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6275490,
+            "id": 6275483,
             "classId": 8675,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.379Z",
-            "updatedAt": "2023-06-13T15:45:14.379Z",
+            "createdAt": "2023-06-13T15:45:14.378Z",
+            "updatedAt": "2023-06-13T15:45:14.378Z",
             "tags": [],
             "classTitle": "apple",
             "points": {
                 "exterior": [
                     [
-                        152,
-                        290
+                        6,
+                        65
                     ],
                     [
-                        232,
-                        373
-                    ]
-                ],
-                "interior": []
-            }
-        },
-        {
-            "id": 6275489,
-            "classId": 8675,
-            "description": "",
-            "geometryType": "rectangle",
-            "labelerLogin": "iw@datasetninja.com",
-            "createdAt": "2023-06-13T15:45:14.379Z",
-            "updatedAt": "2023-06-13T15:45:14.379Z",
-            "tags": [],
-            "classTitle": "apple",
-            "points": {
-                "exterior": [
-                    [
-                        33,
-                        520
-                    ],
-                    [
-                        125,
-                        582
+                        124,
+                        238
                     ]
                 ],
                 "interior": []

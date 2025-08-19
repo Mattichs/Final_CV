@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1200,
+        "width": 1600
+    },
+    "objects": [
+        {
+            "id": 6281218,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.217Z",
+            "updatedAt": "2023-06-13T15:45:34.217Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        1047,
+                        320
+                    ],
+                    [
+                        1401,
+                        807
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281217,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.217Z",
+            "updatedAt": "2023-06-13T15:45:34.217Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        526,
+                        299
+                    ],
+                    [
+                        1126,
+                        852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6281216,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:45:34.216Z",
+            "updatedAt": "2023-06-13T15:45:34.216Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        962,
+                        710
+                    ],
+                    [
+                        1323,
+                        1031
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

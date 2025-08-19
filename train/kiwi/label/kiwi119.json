@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 323,
+        "width": 512
+    },
+    "objects": [
+        {
+            "id": 6314475,
+            "classId": 8684,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "iw@datasetninja.com",
+            "createdAt": "2023-06-13T15:46:37.769Z",
+            "updatedAt": "2023-06-13T15:46:37.769Z",
+            "tags": [],
+            "classTitle": "kiwi",
+            "points": {
+                "exterior": [
+                    [
+                        119,
+                        9
+                    ],
+                    [
+                        324,
+                        316
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
